@@ -2,7 +2,10 @@ CountDownTimer('3/2/2020 9:45 AM', 'count_아에르');
 CountDownTimer('3/2/2020 7:00 AM', 'count_상공양행');
 CountDownTimer('3/2/2020 11:00 AM', 'count_국대마스크');
 CountDownTimer('3/2/2020 09:00 AM', 'count_금아스토어');
-CountDownTimer('3/2/2020 10:00 AM', 'count_웰킵스');
+CountDownTimer('3/2/2020 10:00 AM', 'count_welkeeps1');
+CountDownTimer('3/2/2020 10:00 AM', 'count_welkeeps2');
+CountDownTimer('3/2/2020 10:00 AM', 'count_welkeeps3');
+CountDownTimer('3/2/2020 10:00 AM', 'count_welkeeps4');
 
 function CountDownTimer(dt, id) {
     var end = new Date(dt);
